@@ -1,0 +1,66 @@
+about:
+  description: PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.
+  license: MIT
+  homepage: https://praison.ai/docs
+  head: c914106
+  archived: false
+  latestVersion: v4.7.4
+  collectedAt: 2026-08-29T07:29:22Z
+timeline:
+  created: 2024-03-19
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-28
+popularity:
+  star: 8977
+  watcher: 71
+  fork: 1426
+  release: 845
+  contributor: 61
+  pullRequest: 202
+  issue: 1823
+language:
+  Python: 37059773
+  TypeScript: 3825317
+  Rust: 1216289
+  JavaScript: 297588
+  HTML: 134857
+  Shell: 101655
+  PowerShell: 17044
+  CSS: 7522
+  Go Template: 5254
+  Dockerfile: 4215
+  Ruby: 579
+totalLine: 42670093
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 12
+    mergedPR: 583
+    openPR: 2
+    closedIssue: 439
+    openIssue: 15
+    commit: 1357
+  last90d:
+    since: 2026-05-31
+    release: 100
+    mergedPR: 1528
+    openPR: 2
+    closedIssue: 1202
+    openIssue: 21
+    commit: 3559
+  last180d:
+    since: 2026-03-02
+    release: 100
+    mergedPR: 1817
+    openPR: 2
+    closedIssue: 1477
+    openIssue: 34
+    commit: 4468
+  last360d:
+    since: 2025-09-03
+    release: 100
+    mergedPR: 1820
+    openPR: 2
+    closedIssue: 1486
+    openIssue: 34
+    commit: 5106
