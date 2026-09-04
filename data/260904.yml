@@ -7,13 +7,13 @@ about:
   head: f95b0cc
   archived: false
   latestVersion: v4.7.5
-  collectedAt: 2026-09-04T20:12:18Z
+  collectedAt: 2026-09-04T20:36:05Z
 timeline:
   created: 2024-03-19
   lastCommit: 2026-09-04
   lastRelease: 2026-09-02
 popularity:
-  star: 9015
+  star: 9016
   watcher: 75
   fork: 1431
   release: 846
@@ -94,7 +94,7 @@ total:
   commit: 8962
 ---
 path: /home/runner/.x-repo/github.com/MervinPraison/PraisonAI
-collectedAt: 2026-09-04T20:12:25Z
+collectedAt: 2026-09-04T20:36:12Z
 loc:
   Python:
     code: 853809
