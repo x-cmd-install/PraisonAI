@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1394502,
       "digest": "sha256:5d71a646b73530f0acba76525c1c3e58977141ad1830bc06e22efb5cfb31655d",
-      "download_count": 16,
+      "download_count": 19,
       "created_at": "2026-09-05T23:32:10Z",
       "updated_at": "2026-09-05T23:32:10Z",
       "browser_download_url": "https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.6/PraisonAI-v4.7.6-windows-x64-setup.exe"
