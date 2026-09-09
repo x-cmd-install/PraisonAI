@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.7.6"
   latestRelease: "v4.7.6"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:59:29Z
+  collectedAt: 2026-09-09T18:40:42Z
 timeline:
   created: 2024-03-19
   lastCommit: 2026-09-08
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-05
   lastPrerelease: 
 popularity:
-  star: 9032
+  star: 9037
   watcher: 76
-  fork: 1438
+  fork: 1439
   release: 847
   contributor: 65
-  pullRequest: 3009
-  issue: 1930
+  pullRequest: 3016
+  issue: 1936
 language:
   Python: 39466545
   TypeScript: 6664563
@@ -43,60 +43,60 @@ recent:
     since: 2026-08-10
     release: 10
     mergedPR: 703
-    openPR: 27
+    openPR: 34
     closedIssue: 393
-    openIssue: 11
+    openIssue: 17
     commit: 1311
   last60d:
     since: 2026-07-11
     release: 29
     mergedPR: 1186
-    openPR: 27
+    openPR: 34
     closedIssue: 828
-    openIssue: 16
+    openIssue: 22
     commit: 2417
   last90d:
     since: 2026-06-11
     release: 100
     mergedPR: 1750
-    openPR: 27
+    openPR: 34
     closedIssue: 1261
-    openIssue: 19
+    openIssue: 25
     commit: 3853
   last180d:
     since: 2026-03-13
     release: 100
     mergedPR: 2088
-    openPR: 27
+    openPR: 34
     closedIssue: 1585
-    openIssue: 31
+    openIssue: 37
     commit: 4777
   last360d:
     since: 2025-09-14
     release: 100
     mergedPR: 2093
-    openPR: 27
+    openPR: 34
     closedIssue: 1594
-    openIssue: 32
+    openIssue: 38
     commit: 5515
   last720d:
     since: 2024-09-19
     release: 100
     mergedPR: 2676
-    openPR: 27
+    openPR: 34
     closedIssue: 1821
-    openIssue: 52
+    openIssue: 58
     commit: 8957
 total:
   release: 847
   mergedPR: 2770
-  openPR: 27
+  openPR: 34
   closedIssue: 1876
-  openIssue: 54
+  openIssue: 60
   commit: 9190
 ---
 path: /home/runner/.x-repo/github.com/MervinPraison/PraisonAI
-collectedAt: 2026-09-09T04:59:47Z
+collectedAt: 2026-09-09T18:40:59Z
 loc:
   Python:
     code: 881151
