@@ -23,23 +23,31 @@ x install PraisonAI
 - **Latest**: `v4.7.6` (2026-09-05)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 4
-- **Published**: 2026-09-05T23:18:16Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [PraisonAI-v4.7.6-linux-x64.deb](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.6/PraisonAI-v4.7.6-linux-x64.deb) | 2.1 MiB | `other` |
+| [PraisonAI-v4.7.6-macos-apple-silicon.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.6/PraisonAI-v4.7.6-macos-apple-silicon.dmg) | 1.8 MiB | `native/darwin/x64` |
+| [PraisonAI-v4.7.6-macos-intel.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.6/PraisonAI-v4.7.6-macos-intel.dmg) | 1.9 MiB | `native/darwin/x64` |
+| [PraisonAI-v4.7.6-windows-x64-setup.exe](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.6/PraisonAI-v4.7.6-windows-x64-setup.exe) | 1.3 MiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 9,040 · **Forks**: 1,439 · **Open issues**: 1,936 · **Contributors**: 65
+- **Stars**: 9,043 · **Forks**: 1,439 · **Open issues**: 1,943 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 847 · **Merged PRs**: 2770 · **Open PRs**: 34 · **Closed issues**: 1876 · **Open issues**: 60 · **Commits**: 9190
+- **Releases**: 847 · **Merged PRs**: 2770 · **Open PRs**: 34 · **Closed issues**: 1876 · **Open issues**: 67 · **Commits**: 9190
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 10 | 697 | 34 | 387 | 17 | 1311 |
-| 90d | 2026-06-12 | 100 | 1725 | 34 | 1248 | 25 | 3853 |
-| 360d | 2025-09-15 | 100 | 2093 | 34 | 1594 | 38 | 5515 |
+| 30d | 2026-08-11 | 10 | 697 | 34 | 387 | 24 | 1311 |
+| 90d | 2026-06-12 | 100 | 1725 | 34 | 1248 | 32 | 3853 |
+| 360d | 2025-09-15 | 100 | 2093 | 34 | 1594 | 45 | 5515 |
 
 ## Code size
 
@@ -58,8 +66,8 @@ Total: **1,147,210** lines of code across **5836** files in the top 5 languages.
 Install metadata for PraisonAI lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `PraisonAI` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/PraisonAI.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/PraisonAI.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:45:53Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:23:10Z._
