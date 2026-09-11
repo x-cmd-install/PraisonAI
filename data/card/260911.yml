@@ -2,28 +2,28 @@ about:
   description: "PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs."
   license: MIT
   homepage: https://praison.ai/docs
-  head: 341a1b4
+  head: 43a106d
   archived: false
   latestVersion: "v4.7.7"
   latestRelease: "v4.7.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:40:06Z
+  collectedAt: 2026-09-11T20:18:03Z
 timeline:
   created: 2024-03-19
-  lastCommit: 2026-09-10
+  lastCommit: 2026-09-11
   lastVersion: 2026-09-10
   lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
   star: 9043
   watcher: 76
-  fork: 1439
+  fork: 1440
   release: 848
   contributor: 65
-  pullRequest: 3034
-  issue: 1944
+  pullRequest: 3036
+  issue: 1950
 language:
-  Python: 39698945
+  Python: 39731301
   TypeScript: 6664563
   Rust: 1327926
   JavaScript: 526010
@@ -37,72 +37,72 @@ language:
   Ruby: 1196
   Objective-C++: 100
   C++: 82
-totalBytes: 48567370
+totalBytes: 48599726
 recent:
   last30d:
     since: 2026-08-12
     release: 11
-    mergedPR: 723
-    openPR: 23
-    closedIssue: 389
-    openIssue: 15
-    commit: 1379
+    mergedPR: 728
+    openPR: 20
+    closedIssue: 392
+    openIssue: 18
+    commit: 1388
   last60d:
     since: 2026-07-13
     release: 28
-    mergedPR: 1168
-    openPR: 23
-    closedIssue: 794
-    openIssue: 20
-    commit: 2485
+    mergedPR: 1173
+    openPR: 20
+    closedIssue: 797
+    openIssue: 23
+    commit: 2494
   last90d:
     since: 2026-06-13
     release: 100
-    mergedPR: 1745
-    openPR: 23
-    closedIssue: 1238
-    openIssue: 22
-    commit: 3921
+    mergedPR: 1750
+    openPR: 20
+    closedIssue: 1241
+    openIssue: 25
+    commit: 3930
   last180d:
     since: 2026-03-15
     release: 100
-    mergedPR: 2115
-    openPR: 23
-    closedIssue: 1595
-    openIssue: 34
-    commit: 4845
+    mergedPR: 2120
+    openPR: 20
+    closedIssue: 1598
+    openIssue: 37
+    commit: 4854
   last360d:
     since: 2025-09-16
     release: 100
-    mergedPR: 2120
-    openPR: 23
-    closedIssue: 1604
-    openIssue: 36
-    commit: 5583
+    mergedPR: 2125
+    openPR: 20
+    closedIssue: 1607
+    openIssue: 39
+    commit: 5592
   last720d:
     since: 2024-09-21
     release: 100
-    mergedPR: 2703
-    openPR: 23
-    closedIssue: 1831
-    openIssue: 56
-    commit: 9054
+    mergedPR: 2708
+    openPR: 20
+    closedIssue: 1834
+    openIssue: 59
+    commit: 9069
 total:
   release: 848
-  mergedPR: 2797
-  openPR: 23
-  closedIssue: 1886
-  openIssue: 58
-  commit: 9287
+  mergedPR: 2802
+  openPR: 20
+  closedIssue: 1889
+  openIssue: 61
+  commit: 9302
 ---
 path: /home/runner/.x-repo/github.com/MervinPraison/PraisonAI
-collectedAt: 2026-09-11T04:40:25Z
+collectedAt: 2026-09-11T20:18:25Z
 loc:
   Python:
-    code: 885461
-    comments: 67795
-    blanks: 178848
-    files: 4731
+    code: 886062
+    comments: 67870
+    blanks: 178990
+    files: 4734
   TypeScript:
     code: 131533
     comments: 40883
@@ -220,7 +220,7 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 16871
+    comments: 16872
     blanks: 5426
     files: 157
   Text:
@@ -229,10 +229,10 @@ loc:
     blanks: 539
     files: 15
 total:
-  code: 1169176
-  comments: 144212
-  blanks: 218391
-  files: 6321
+  code: 1169777
+  comments: 144288
+  blanks: 218533
+  files: 6324
 ---
 
 ---
