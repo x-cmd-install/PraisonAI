@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.7.7"
   latestRelease: "v4.7.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:20:54Z
+  collectedAt: 2026-09-11T04:40:06Z
 timeline:
   created: 2024-03-19
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 9044
+  star: 9043
   watcher: 76
   fork: 1439
   release: 848
@@ -96,7 +96,7 @@ total:
   commit: 9287
 ---
 path: /home/runner/.x-repo/github.com/MervinPraison/PraisonAI
-collectedAt: 2026-09-11T00:21:12Z
+collectedAt: 2026-09-11T04:40:25Z
 loc:
   Python:
     code: 885461
