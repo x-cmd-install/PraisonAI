@@ -14,11 +14,11 @@ x install PraisonAI
 
 ## Code insight
 
-Total: **1,152,139** lines of code across **5856** files in the top 5 languages.
+Total: **1,153,871** lines of code across **5862** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 886,062 | 67,870 | 178,990 | 4734 |
+| Python | 887,794 | 68,073 | 179,373 | 4740 |
 | TypeScript | 131,533 | 40,883 | 20,910 | 838 |
 | Json | 70,670 | 0 | 3 | 60 |
 | Rust | 28,526 | 2,097 | 5,387 | 102 |
@@ -32,37 +32,37 @@ Total: **1,152,139** lines of code across **5856** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v4.7.7` (2026-09-10)
-- **Last commit**: 2026-09-11
+- **Latest**: `v4.7.8` (2026-09-14)
+- **Last commit**: 2026-09-14
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 9,051 · **Forks**: 1,438 · **Open issues**: 1,959 · **Contributors**: 65
+- **Stars**: 9,055 · **Forks**: 1,439 · **Open issues**: 1,970 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 848 · **Merged PRs**: 2802 · **Open PRs**: 18 · **Closed issues**: 1889 · **Open issues**: 70 · **Commits**: 9302
+- **Releases**: 849 · **Merged PRs**: 2815 · **Open PRs**: 15 · **Closed issues**: 1900 · **Open issues**: 70 · **Commits**: 9347
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 10 | 666 | 18 | 354 | 25 | 995 |
-| last60d | 2026-07-16 | 23 | 1110 | 18 | 742 | 31 | 2162 |
-| 90d | 2026-06-16 | 98 | 1739 | 18 | 1229 | 34 | 3837 |
-| last180d | 2026-03-18 | 100 | 2120 | 18 | 1598 | 46 | 4831 |
-| 360d | 2025-09-19 | 100 | 2125 | 18 | 1607 | 48 | 5592 |
-| last720d | 2024-09-24 | 100 | 2703 | 18 | 1834 | 68 | 9057 |
+| 30d | 2026-08-16 | 10 | 670 | 15 | 356 | 25 | 1027 |
+| last60d | 2026-07-17 | 23 | 1111 | 15 | 745 | 31 | 2194 |
+| 90d | 2026-06-17 | 99 | 1741 | 15 | 1234 | 34 | 3869 |
+| last180d | 2026-03-19 | 100 | 2133 | 15 | 1609 | 46 | 4863 |
+| 360d | 2025-09-20 | 100 | 2138 | 15 | 1618 | 48 | 5624 |
+| last720d | 2024-09-25 | 100 | 2715 | 15 | 1845 | 68 | 9102 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [PraisonAI-v4.7.7-linux-x64.deb](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.7/PraisonAI-v4.7.7-linux-x64.deb) | 2.1 MiB | `other` |
-| [PraisonAI-v4.7.7-macos-apple-silicon.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.7/PraisonAI-v4.7.7-macos-apple-silicon.dmg) | 1.8 MiB | `native/darwin/x64` |
-| [PraisonAI-v4.7.7-macos-intel.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.7/PraisonAI-v4.7.7-macos-intel.dmg) | 1.9 MiB | `native/darwin/x64` |
-| [PraisonAI-v4.7.7-windows-x64-setup.exe](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.7/PraisonAI-v4.7.7-windows-x64-setup.exe) | 1.3 MiB | `native/win/x64` |
+| [PraisonAI-v4.7.8-linux-x64.deb](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.8/PraisonAI-v4.7.8-linux-x64.deb) | 2.1 MiB | `other` |
+| [PraisonAI-v4.7.8-macos-apple-silicon.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.8/PraisonAI-v4.7.8-macos-apple-silicon.dmg) | 1.8 MiB | `native/darwin/x64` |
+| [PraisonAI-v4.7.8-macos-intel.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.8/PraisonAI-v4.7.8-macos-intel.dmg) | 1.9 MiB | `native/darwin/x64` |
+| [PraisonAI-v4.7.8-windows-x64-setup.exe](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.8/PraisonAI-v4.7.8-windows-x64-setup.exe) | 1.3 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for PraisonAI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T04:57:50Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:02:33Z._
