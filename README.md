@@ -33,27 +33,27 @@ Total: **1,153,871** lines of code across **5862** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.7.8` (2026-09-14)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-15
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 9,055 · **Forks**: 1,439 · **Open issues**: 1,970 · **Contributors**: 65
+- **Stars**: 9,058 · **Forks**: 1,442 · **Open issues**: 1,981 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 849 · **Merged PRs**: 2815 · **Open PRs**: 15 · **Closed issues**: 1900 · **Open issues**: 70 · **Commits**: 9347
+- **Releases**: 849 · **Merged PRs**: 2815 · **Open PRs**: 27 · **Closed issues**: 1901 · **Open issues**: 80 · **Commits**: 9348
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 10 | 670 | 15 | 356 | 25 | 1027 |
-| last60d | 2026-07-17 | 23 | 1111 | 15 | 745 | 31 | 2194 |
-| 90d | 2026-06-17 | 99 | 1741 | 15 | 1234 | 34 | 3869 |
-| last180d | 2026-03-19 | 100 | 2133 | 15 | 1609 | 46 | 4863 |
-| 360d | 2025-09-20 | 100 | 2138 | 15 | 1618 | 48 | 5624 |
-| last720d | 2024-09-25 | 100 | 2715 | 15 | 1845 | 68 | 9102 |
+| 30d | 2026-08-17 | 10 | 656 | 27 | 348 | 35 | 1028 |
+| last60d | 2026-07-18 | 22 | 1099 | 27 | 734 | 41 | 2195 |
+| 90d | 2026-06-18 | 96 | 1734 | 27 | 1228 | 44 | 3870 |
+| last180d | 2026-03-20 | 100 | 2132 | 27 | 1610 | 56 | 4864 |
+| 360d | 2025-09-21 | 100 | 2138 | 27 | 1619 | 58 | 5625 |
+| last720d | 2024-09-26 | 100 | 2715 | 27 | 1846 | 78 | 9101 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for PraisonAI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:02:33Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T04:53:11Z._
