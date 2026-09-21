@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2212106,
       "digest": "sha256:6c4095399fd6df9fa3ce0c43099940384b77191973b2e7b3c108aef4b5568fa3",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-18T01:49:45Z",
       "updated_at": "2026-09-18T01:49:45Z",
       "browser_download_url": "https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.9/PraisonAI-v4.7.9-linux-x64.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1400066,
       "digest": "sha256:f48765c4ee4d19371ea90262409f903fdc4b5010bbf561a44699eaf3caea1fea",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-09-18T01:52:06Z",
       "updated_at": "2026-09-18T01:52:06Z",
       "browser_download_url": "https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.9/PraisonAI-v4.7.9-windows-x64-setup.exe"
