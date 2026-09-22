@@ -32,37 +32,37 @@ Total: **1,160,075** lines of code across **5882** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v4.7.9` (2026-09-18)
-- **Last commit**: 2026-09-18
+- **Latest**: `v4.7.10` (2026-09-22)
+- **Last commit**: 2026-09-22
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 9,081 · **Forks**: 1,453 · **Open issues**: 2,007 · **Contributors**: 71
+- **Stars**: 9,081 · **Forks**: 1,453 · **Open issues**: 2,027 · **Contributors**: 71
 
 ## Totals (cumulative)
 
-- **Releases**: 850 · **Merged PRs**: 2852 · **Open PRs**: 9 · **Closed issues**: 1922 · **Open issues**: 85 · **Commits**: 9429
+- **Releases**: 851 · **Merged PRs**: 2852 · **Open PRs**: 14 · **Closed issues**: 1922 · **Open issues**: 105 · **Commits**: 9430
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 9 | 580 | 9 | 278 | 40 | 688 |
-| last60d | 2026-07-23 | 19 | 1042 | 9 | 689 | 46 | 1995 |
-| 90d | 2026-06-23 | 90 | 1669 | 9 | 1183 | 48 | 3514 |
-| last180d | 2026-03-25 | 100 | 2166 | 9 | 1610 | 59 | 4859 |
-| 360d | 2025-09-26 | 100 | 2175 | 9 | 1640 | 63 | 5692 |
-| last720d | 2024-10-01 | 100 | 2751 | 9 | 1866 | 83 | 9180 |
+| 30d | 2026-08-23 | 10 | 555 | 14 | 253 | 59 | 689 |
+| last60d | 2026-07-24 | 20 | 1025 | 14 | 676 | 66 | 1996 |
+| 90d | 2026-06-24 | 91 | 1631 | 14 | 1148 | 68 | 3515 |
+| last180d | 2026-03-26 | 100 | 2161 | 14 | 1607 | 79 | 4860 |
+| 360d | 2025-09-27 | 100 | 2175 | 14 | 1640 | 83 | 5693 |
+| last720d | 2024-10-02 | 100 | 2749 | 14 | 1866 | 103 | 9181 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [PraisonAI-v4.7.9-linux-x64.deb](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.9/PraisonAI-v4.7.9-linux-x64.deb) | 2.1 MiB | `other` |
-| [PraisonAI-v4.7.9-macos-apple-silicon.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.9/PraisonAI-v4.7.9-macos-apple-silicon.dmg) | 1.8 MiB | `native/darwin/x64` |
-| [PraisonAI-v4.7.9-macos-intel.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.9/PraisonAI-v4.7.9-macos-intel.dmg) | 1.9 MiB | `native/darwin/x64` |
-| [PraisonAI-v4.7.9-windows-x64-setup.exe](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.9/PraisonAI-v4.7.9-windows-x64-setup.exe) | 1.3 MiB | `native/win/x64` |
+| [PraisonAI-v4.7.10-linux-x64.deb](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.10/PraisonAI-v4.7.10-linux-x64.deb) | 2.1 MiB | `other` |
+| [PraisonAI-v4.7.10-macos-apple-silicon.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.10/PraisonAI-v4.7.10-macos-apple-silicon.dmg) | 1.8 MiB | `native/darwin/x64` |
+| [PraisonAI-v4.7.10-macos-intel.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.10/PraisonAI-v4.7.10-macos-intel.dmg) | 1.9 MiB | `native/darwin/x64` |
+| [PraisonAI-v4.7.10-windows-x64-setup.exe](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.10/PraisonAI-v4.7.10-windows-x64-setup.exe) | 1.3 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for PraisonAI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:55:48Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:56:25Z._
