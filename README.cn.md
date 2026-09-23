@@ -4,7 +4,7 @@
 
 PraisonAI 🦞 — Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents that research, plan, code, and execute tasks. Deployed in 5 lines of code with built-in memory, RAG, and support for 100+ LLMs.
 
-[![x-cmd/install — PraisonAI Code Quality Monitoring Repo Card](https://repo.x-cmd.io/PraisonAI.svg?lang=zh)](https://x-cmd.com/install/PraisonAI)
+[![x-cmd/install — PraisonAI Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/PraisonAI.svg?lang=zh)](https://x-cmd.com/install/PraisonAI)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install PraisonAI
 
 ## 代码洞察
 
-合计: **1,160,075** 行代码（覆盖前 5 种语言、共 **5882** 个文件）。
+合计: **1,159,829** 行代码（覆盖前 5 种语言、共 **5882** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 892,937 | 69,013 | 180,255 | 4753 |
+| Python | 892,691 | 69,006 | 180,210 | 4753 |
 | TypeScript | 132,438 | 41,247 | 21,050 | 845 |
 | Json | 70,839 | 0 | 3 | 60 |
 | Rust | 28,526 | 2,097 | 5,387 | 102 |
@@ -38,22 +38,22 @@ x install PraisonAI
 
 ## 流行度
 
-- **Star**: 9,081 · **Fork**: 1,453 · **开放 issue**: 2,027 · **贡献者**: 71
+- **Star**: 9,083 · **Fork**: 1,452 · **开放 issue**: 2,033 · **贡献者**: 71
 
 ## 累计统计
 
-- **发布数**: 851 · **已合并 PR**: 2852 · **开放 PR**: 14 · **已关闭 issue**: 1922 · **开放 issue**: 105 · **提交数**: 9430
+- **发布数**: 851 · **已合并 PR**: 2856 · **开放 PR**: 20 · **已关闭 issue**: 1926 · **开放 issue**: 107 · **提交数**: 9446
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 10 | 555 | 14 | 253 | 59 | 689 |
-| last60d | 2026-07-24 | 20 | 1025 | 14 | 676 | 66 | 1996 |
-| 90d | 2026-06-24 | 91 | 1631 | 14 | 1148 | 68 | 3515 |
-| last180d | 2026-03-26 | 100 | 2161 | 14 | 1607 | 79 | 4860 |
-| 360d | 2025-09-27 | 100 | 2175 | 14 | 1640 | 83 | 5693 |
-| last720d | 2024-10-02 | 100 | 2749 | 14 | 1866 | 103 | 9181 |
+| 30d | 2026-08-24 | 10 | 532 | 20 | 229 | 61 | 701 |
+| last60d | 2026-07-25 | 20 | 1014 | 20 | 667 | 68 | 2008 |
+| 90d | 2026-06-25 | 87 | 1620 | 20 | 1139 | 70 | 3527 |
+| last180d | 2026-03-27 | 100 | 2164 | 20 | 1608 | 81 | 4872 |
+| 360d | 2025-09-28 | 100 | 2179 | 20 | 1644 | 85 | 5705 |
+| last720d | 2024-10-03 | 100 | 2753 | 20 | 1870 | 105 | 9192 |
 
 ## Release 资产
 
@@ -73,4 +73,4 @@ PraisonAI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:56:26Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:48:57Z._
