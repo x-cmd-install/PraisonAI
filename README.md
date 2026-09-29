@@ -38,22 +38,22 @@ Total: **1,169,169** lines of code across **5922** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,103 · **Forks**: 1,458 · **Open issues**: 2,090 · **Contributors**: 72
+- **Stars**: 9,106 · **Forks**: 1,459 · **Open issues**: 2,099 · **Contributors**: 72
 
 ## Totals (cumulative)
 
-- **Releases**: 851 · **Merged PRs**: 2892 · **Open PRs**: 60 · **Closed issues**: 1975 · **Open issues**: 115 · **Commits**: 9505
+- **Releases**: 851 · **Merged PRs**: 2892 · **Open PRs**: 69 · **Closed issues**: 1975 · **Open issues**: 124 · **Commits**: 9505
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 6 | 383 | 60 | 195 | 67 | 469 |
-| last60d | 2026-07-30 | 18 | 978 | 60 | 647 | 74 | 1847 |
-| 90d | 2026-06-30 | 81 | 1535 | 60 | 1098 | 78 | 3132 |
-| last180d | 2026-04-01 | 100 | 2163 | 60 | 1629 | 89 | 4792 |
-| 360d | 2025-10-03 | 100 | 2215 | 60 | 1693 | 93 | 5756 |
-| last720d | 2024-10-08 | 100 | 2783 | 60 | 1919 | 113 | 9250 |
+| 30d | 2026-08-30 | 6 | 379 | 69 | 193 | 76 | 469 |
+| last60d | 2026-07-31 | 18 | 962 | 69 | 632 | 82 | 1847 |
+| 90d | 2026-07-01 | 74 | 1509 | 69 | 1083 | 87 | 3132 |
+| last180d | 2026-04-02 | 100 | 2158 | 69 | 1625 | 98 | 4792 |
+| 360d | 2025-10-04 | 100 | 2215 | 69 | 1693 | 102 | 5756 |
+| last720d | 2024-10-09 | 100 | 2783 | 69 | 1919 | 122 | 9236 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for PraisonAI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:19:11Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:46:02Z._
