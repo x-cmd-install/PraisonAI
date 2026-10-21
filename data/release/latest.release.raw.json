@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2315954,
       "digest": "sha256:fdf255eeba37179c692ac5c74780178134eb188d3e819ff2e284aab8ba546ced",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-10-19T12:04:58Z",
       "updated_at": "2026-10-19T12:04:59Z",
       "browser_download_url": "https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.16/PraisonAI-v4.7.16-linux-x64.deb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1972155,
       "digest": "sha256:8eaae1cb1b68b878a2b9b829c86bd0677842817e6a98db4da3bdd687294c3838",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-10-19T12:06:03Z",
       "updated_at": "2026-10-19T12:06:04Z",
       "browser_download_url": "https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.16/PraisonAI-v4.7.16-macos-apple-silicon.dmg"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2122673,
       "digest": "sha256:93ee2768f5f010f87ccfbc14c4e2a6c7f445d819c0601805b14e4922cf5d58db",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-10-19T12:11:53Z",
       "updated_at": "2026-10-19T12:11:53Z",
       "browser_download_url": "https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.16/PraisonAI-v4.7.16-macos-intel.dmg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1474094,
       "digest": "sha256:a00d6cfc32d075c8e0f54ee476904afde44411884a973ce051e04bfa4d545470",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-10-19T12:04:52Z",
       "updated_at": "2026-10-19T12:04:52Z",
       "browser_download_url": "https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.16/PraisonAI-v4.7.16-windows-x64-setup.exe"
