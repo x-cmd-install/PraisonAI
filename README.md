@@ -14,11 +14,11 @@ x install PraisonAI
 
 ## Code insight
 
-Total: **1,220,399** lines of code across **6145** files in the top 5 languages.
+Total: **1,220,674** lines of code across **6146** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 948,848 | 73,814 | 190,955 | 5003 |
+| Python | 949,123 | 73,831 | 191,017 | 5004 |
 | TypeScript | 134,012 | 41,523 | 21,265 | 855 |
 | Json | 73,368 | 0 | 3 | 62 |
 | Rust | 28,564 | 2,101 | 5,389 | 102 |
@@ -33,27 +33,27 @@ Total: **1,220,399** lines of code across **6145** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v4.7.17` (2026-10-23)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-10-25
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 9,290 · **Forks**: 1,486 · **Open issues**: 2,383 · **Contributors**: 78
+- **Stars**: 9,293 · **Forks**: 1,486 · **Open issues**: 2,387 · **Contributors**: 78
 
 ## Totals (cumulative)
 
-- **Releases**: 858 · **Merged PRs**: 3199 · **Open PRs**: 42 · **Closed issues**: 2267 · **Open issues**: 116 · **Commits**: 10575
+- **Releases**: 858 · **Merged PRs**: 3202 · **Open PRs**: 43 · **Closed issues**: 2270 · **Open issues**: 117 · **Commits**: 10583
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 7 | 276 | 41 | 256 | 45 | 955 |
-| last60d | 2026-08-26 | 16 | 807 | 42 | 536 | 69 | 2292 |
-| 90d | 2026-07-27 | 26 | 1325 | 42 | 979 | 75 | 4884 |
-| last180d | 2026-04-28 | 100 | 2331 | 42 | 1784 | 84 | 9698 |
-| 360d | 2025-10-30 | 100 | 2522 | 42 | 1985 | 94 | 11916 |
-| last720d | 2024-11-04 | 100 | 3075 | 42 | 2210 | 114 | 10252 |
+| 30d | 2026-09-26 | 7 | 274 | 42 | 254 | 46 | 968 |
+| last60d | 2026-08-27 | 14 | 755 | 43 | 510 | 69 | 2305 |
+| 90d | 2026-07-28 | 26 | 1312 | 43 | 966 | 76 | 4897 |
+| last180d | 2026-04-29 | 100 | 2332 | 43 | 1786 | 85 | 9711 |
+| 360d | 2025-10-31 | 100 | 2525 | 43 | 1988 | 95 | 11929 |
+| last720d | 2024-11-05 | 100 | 3078 | 43 | 2213 | 115 | 10247 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for PraisonAI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:34:29Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:45:29Z._
