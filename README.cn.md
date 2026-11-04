@@ -14,13 +14,13 @@ x install PraisonAI
 
 ## 代码洞察
 
-合计: **1,240,483** 行代码（覆盖前 5 种语言、共 **6276** 个文件）。
+合计: **1,241,500** 行代码（覆盖前 5 种语言、共 **6282** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 967,840 | 74,783 | 195,380 | 5128 |
+| Python | 968,844 | 74,852 | 195,590 | 5134 |
 | TypeScript | 134,134 | 41,540 | 21,288 | 857 |
-| Json | 74,338 | 0 | 3 | 66 |
+| Json | 74,351 | 0 | 3 | 66 |
 | Rust | 28,564 | 2,101 | 5,389 | 102 |
 | Yaml | 10,593 | 618 | 960 | 123 |
 
@@ -32,37 +32,37 @@ x install PraisonAI
 
 ## 发布
 
-- **最新版本**: `v4.7.22` (2026-10-30)
-- **最近提交**: 2026-11-02
+- **最新版本**: `v4.7.23` (2026-11-03)
+- **最近提交**: 2026-11-03
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 9,318 · **Fork**: 1,502 · **开放 issue**: 2,467 · **贡献者**: 78
+- **Star**: 9,322 · **Fork**: 1,504 · **开放 issue**: 2,475 · **贡献者**: 78
 
 ## 累计统计
 
-- **发布数**: 863 · **已合并 PR**: 3331 · **开放 PR**: 34 · **已关闭 issue**: 2378 · **开放 issue**: 89 · **提交数**: 10937
+- **发布数**: 864 · **已合并 PR**: 3337 · **开放 PR**: 35 · **已关闭 issue**: 2386 · **开放 issue**: 89 · **提交数**: 10962
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 10 | 253 | 34 | 206 | 13 | 1001 |
-| last60d | 2026-09-04 | 17 | 661 | 34 | 529 | 38 | 2114 |
-| 90d | 2026-08-05 | 28 | 1337 | 34 | 973 | 47 | 4914 |
-| last180d | 2026-05-07 | 100 | 2440 | 34 | 1870 | 57 | 10228 |
-| 360d | 2025-11-08 | 100 | 2654 | 34 | 2095 | 68 | 12499 |
-| last720d | 2024-11-13 | 100 | 3203 | 34 | 2319 | 88 | 10593 |
+| 30d | 2026-10-05 | 11 | 257 | 35 | 208 | 13 | 1044 |
+| last60d | 2026-09-05 | 18 | 645 | 35 | 530 | 38 | 2157 |
+| 90d | 2026-08-06 | 28 | 1313 | 35 | 944 | 47 | 4957 |
+| last180d | 2026-05-08 | 100 | 2445 | 35 | 1877 | 57 | 10271 |
+| 360d | 2025-11-09 | 100 | 2660 | 35 | 2103 | 68 | 12542 |
+| last720d | 2024-11-14 | 100 | 3209 | 35 | 2327 | 88 | 10618 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [PraisonAI-v4.7.22-linux-x64.deb](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.22/PraisonAI-v4.7.22-linux-x64.deb) | 2.2 MiB | `other` |
-| [PraisonAI-v4.7.22-macos-apple-silicon.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.22/PraisonAI-v4.7.22-macos-apple-silicon.dmg) | 1.9 MiB | `native/darwin/x64` |
-| [PraisonAI-v4.7.22-macos-intel.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.22/PraisonAI-v4.7.22-macos-intel.dmg) | 2.0 MiB | `native/darwin/x64` |
-| [PraisonAI-v4.7.22-windows-x64-setup.exe](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.22/PraisonAI-v4.7.22-windows-x64-setup.exe) | 1.4 MiB | `native/win/x64` |
+| [PraisonAI-v4.7.23-linux-x64.deb](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.23/PraisonAI-v4.7.23-linux-x64.deb) | 2.2 MiB | `other` |
+| [PraisonAI-v4.7.23-macos-apple-silicon.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.23/PraisonAI-v4.7.23-macos-apple-silicon.dmg) | 1.9 MiB | `native/darwin/x64` |
+| [PraisonAI-v4.7.23-macos-intel.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.23/PraisonAI-v4.7.23-macos-intel.dmg) | 2.0 MiB | `native/darwin/x64` |
+| [PraisonAI-v4.7.23-windows-x64-setup.exe](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.23/PraisonAI-v4.7.23-windows-x64-setup.exe) | 1.4 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ PraisonAI 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T06:51:29Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T06:22:43Z._
