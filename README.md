@@ -14,15 +14,15 @@ x install PraisonAI
 
 ## Code insight
 
-Total: **1,243,790** lines of code across **6302** files in the top 5 languages.
+Total: **1,245,696** lines of code across **6315** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 970,048 | 74,912 | 195,843 | 5142 |
-| TypeScript | 135,220 | 41,554 | 21,419 | 869 |
-| Json | 74,351 | 0 | 3 | 66 |
+| Python | 971,858 | 75,024 | 196,311 | 5154 |
+| TypeScript | 135,278 | 41,554 | 21,425 | 870 |
+| Json | 74,388 | 0 | 3 | 66 |
 | Rust | 28,564 | 2,101 | 5,389 | 102 |
-| Yaml | 10,593 | 618 | 960 | 123 |
+| Yaml | 10,594 | 618 | 960 | 123 |
 
 ## Source
 
@@ -32,37 +32,37 @@ Total: **1,243,790** lines of code across **6302** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v4.7.23` (2026-11-03)
-- **Last commit**: 2026-11-04
+- **Latest**: `v4.7.24` (2026-11-05)
+- **Last commit**: 2026-11-05
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 9,321 · **Forks**: 1,503 · **Open issues**: 2,480 · **Contributors**: 80
+- **Stars**: 9,322 · **Forks**: 1,503 · **Open issues**: 2,492 · **Contributors**: 82
 
 ## Totals (cumulative)
 
-- **Releases**: 864 · **Merged PRs**: 3372 · **Open PRs**: 14 · **Closed issues**: 2391 · **Open issues**: 89 · **Commits**: 11018
+- **Releases**: 865 · **Merged PRs**: 3390 · **Open PRs**: 12 · **Closed issues**: 2402 · **Open issues**: 90 · **Commits**: 11065
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 11 | 291 | 14 | 213 | 13 | 1104 |
-| last60d | 2026-09-06 | 17 | 665 | 14 | 527 | 38 | 2217 |
-| 90d | 2026-08-07 | 28 | 1336 | 14 | 939 | 47 | 5017 |
-| last180d | 2026-05-09 | 100 | 2473 | 14 | 1881 | 57 | 10331 |
-| 360d | 2025-11-10 | 100 | 2694 | 14 | 2108 | 68 | 12602 |
-| last720d | 2024-11-15 | 100 | 3243 | 14 | 2332 | 88 | 10674 |
+| 30d | 2026-10-07 | 12 | 287 | 12 | 223 | 14 | 1183 |
+| last60d | 2026-09-07 | 18 | 661 | 12 | 529 | 39 | 2296 |
+| 90d | 2026-08-08 | 29 | 1344 | 12 | 940 | 48 | 5096 |
+| last180d | 2026-05-10 | 100 | 2489 | 12 | 1889 | 58 | 10410 |
+| 360d | 2025-11-11 | 100 | 2712 | 12 | 2119 | 69 | 12681 |
+| last720d | 2024-11-16 | 100 | 3261 | 12 | 2343 | 89 | 10721 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [PraisonAI-v4.7.23-linux-x64.deb](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.23/PraisonAI-v4.7.23-linux-x64.deb) | 2.2 MiB | `other` |
-| [PraisonAI-v4.7.23-macos-apple-silicon.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.23/PraisonAI-v4.7.23-macos-apple-silicon.dmg) | 1.9 MiB | `native/darwin/x64` |
-| [PraisonAI-v4.7.23-macos-intel.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.23/PraisonAI-v4.7.23-macos-intel.dmg) | 2.0 MiB | `native/darwin/x64` |
-| [PraisonAI-v4.7.23-windows-x64-setup.exe](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.23/PraisonAI-v4.7.23-windows-x64-setup.exe) | 1.4 MiB | `native/win/x64` |
+| [PraisonAI-v4.7.24-linux-x64.deb](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.24/PraisonAI-v4.7.24-linux-x64.deb) | 2.2 MiB | `other` |
+| [PraisonAI-v4.7.24-macos-apple-silicon.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.24/PraisonAI-v4.7.24-macos-apple-silicon.dmg) | 1.9 MiB | `native/darwin/x64` |
+| [PraisonAI-v4.7.24-macos-intel.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.24/PraisonAI-v4.7.24-macos-intel.dmg) | 2.0 MiB | `native/darwin/x64` |
+| [PraisonAI-v4.7.24-windows-x64-setup.exe](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.24/PraisonAI-v4.7.24-windows-x64-setup.exe) | 1.4 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for PraisonAI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:46:33Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:41:08Z._
