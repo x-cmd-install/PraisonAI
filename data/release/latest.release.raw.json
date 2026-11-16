@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2330410,
       "digest": "sha256:31686280f5147256e94d5c5084e17f55f28329ae83c289f80114c3b6130a9cc3",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-14T11:44:35Z",
       "updated_at": "2026-11-14T11:44:35Z",
       "browser_download_url": "https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.25/PraisonAI-v4.7.25-linux-x64.deb"
