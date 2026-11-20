@@ -14,12 +14,12 @@ x install PraisonAI
 
 ## Code insight
 
-Total: **1,264,793** lines of code across **6539** files in the top 5 languages.
+Total: **1,276,088** lines of code across **6658** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 990,587 | 75,725 | 201,190 | 5376 |
-| TypeScript | 135,428 | 41,566 | 21,432 | 872 |
+| Python | 1,001,406 | 75,982 | 204,060 | 5489 |
+| TypeScript | 135,903 | 41,645 | 21,489 | 878 |
 | Json | 74,462 | 0 | 3 | 66 |
 | Rust | 28,568 | 2,104 | 5,390 | 102 |
 | Yaml | 10,590 | 622 | 960 | 123 |
@@ -32,37 +32,36 @@ Total: **1,264,793** lines of code across **6539** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v4.7.26` (2026-11-18)
+- **Latest**: `v4.8.0` (2026-11-19)
 - **Last commit**: 2026-11-19
-- **Assets in release**: 4
+- **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 9,343 · **Forks**: 1,511 · **Open issues**: 2,559 · **Contributors**: 85
+- **Stars**: 9,356 · **Forks**: 1,518 · **Open issues**: 2,565 · **Contributors**: 85
 
 ## Totals (cumulative)
 
-- **Releases**: 867 · **Merged PRs**: 3704 · **Open PRs**: 7 · **Closed issues**: 2463 · **Open issues**: 96 · **Commits**: 11650
+- **Releases**: 868 · **Merged PRs**: 3728 · **Open PRs**: 2 · **Closed issues**: 2460 · **Open issues**: 105 · **Commits**: 11682
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 10 | 495 | 7 | 181 | 17 | 1744 |
-| last60d | 2026-09-20 | 17 | 846 | 7 | 509 | 43 | 2906 |
-| 90d | 2026-08-21 | 27 | 1441 | 7 | 824 | 52 | 4858 |
-| last180d | 2026-05-23 | 100 | 2763 | 7 | 1916 | 63 | 11172 |
-| 360d | 2025-11-24 | 100 | 3028 | 7 | 2177 | 75 | 13630 |
-| last720d | 2024-11-29 | 100 | 3575 | 7 | 2404 | 95 | 11306 |
+| 30d | 2026-10-21 | 11 | 517 | 2 | 181 | 26 | 1797 |
+| last60d | 2026-09-21 | 18 | 870 | 2 | 495 | 46 | 2959 |
+| 90d | 2026-08-22 | 27 | 1458 | 2 | 817 | 61 | 4911 |
+| last180d | 2026-05-24 | 100 | 2785 | 2 | 1915 | 72 | 11225 |
+| 360d | 2025-11-25 | 100 | 3052 | 2 | 2174 | 84 | 13683 |
+| last720d | 2024-11-30 | 100 | 3599 | 2 | 2401 | 104 | 11338 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [PraisonAI-v4.7.26-linux-x64.deb](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.26/PraisonAI-v4.7.26-linux-x64.deb) | 2.2 MiB | `other` |
-| [PraisonAI-v4.7.26-macos-apple-silicon.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.26/PraisonAI-v4.7.26-macos-apple-silicon.dmg) | 1.9 MiB | `native/darwin/x64` |
-| [PraisonAI-v4.7.26-macos-intel.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.26/PraisonAI-v4.7.26-macos-intel.dmg) | 2.0 MiB | `native/darwin/x64` |
-| [PraisonAI-v4.7.26-windows-x64-setup.exe](https://github.com/MervinPraison/PraisonAI/releases/download/v4.7.26/PraisonAI-v4.7.26-windows-x64-setup.exe) | 1.4 MiB | `native/win/x64` |
+| [PraisonAI-v4.8.0-linux-x64.deb](https://github.com/MervinPraison/PraisonAI/releases/download/v4.8.0/PraisonAI-v4.8.0-linux-x64.deb) | 2.2 MiB | `other` |
+| [PraisonAI-v4.8.0-macos-apple-silicon.dmg](https://github.com/MervinPraison/PraisonAI/releases/download/v4.8.0/PraisonAI-v4.8.0-macos-apple-silicon.dmg) | 1.9 MiB | `native/darwin/x64` |
+| [PraisonAI-v4.8.0-windows-x64-setup.exe](https://github.com/MervinPraison/PraisonAI/releases/download/v4.8.0/PraisonAI-v4.8.0-windows-x64-setup.exe) | 1.4 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -73,4 +72,4 @@ Install metadata for PraisonAI lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:56:01Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:57:27Z._
